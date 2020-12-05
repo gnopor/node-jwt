@@ -4,27 +4,25 @@
 
 ### Launch node sever
 
-`
+```
 npm i
 
 npm run start
 
-`
+```
 
 ### Test API
 
 **All the following endpoint use http post request**
-_/register and /login need one object containing the email and password_
+_/register and /login need one object containing the email and password_.
 
-`
-
+```
 {
 email: 'some fucking email string',
 password: 'some fucking password string'
 
 }
-
-`
+```
 
 ### EndPoints
 
