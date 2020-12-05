@@ -13,7 +13,8 @@ npm run start
 
 ### Test API
 
-**All the following endpoint use http post request**.
+**All the following endpoint use http post request**
+
 _/register and /login need one object containing the email and password_.
 
 ```
