@@ -20,7 +20,6 @@ _/register and /login need one object containing the email and password_.
 {
 email: 'some fucking email string',
 password: 'some fucking password string'
-
 }
 ```
 
