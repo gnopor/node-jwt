@@ -17,6 +17,8 @@ npm run start
 
 _/register and /login need one object containing the email and password_.
 
+_protected route is used with the bearer access token send by the server when we login_
+
 ```
 {
 email: 'some fucking email string',
